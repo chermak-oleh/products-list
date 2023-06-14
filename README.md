@@ -1,9 +1,24 @@
-# React TypeScript Starter Pack
+# Test task for Inforce
 
-To use this template click `Use this template`
+This is test task for Inforce, made by Oleh Chermak.
 
-### Available Scripts
+## Description
 
-`Deploy` - available to deploy your application to gh-pages
+In this project you can create a new product, edit product, delete it and also update the existing product. 
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+ - Used Technolgies: HTML, CSS, Bulma, Typescript, React, React-Final-Form, Redux, Node.JS, Express, Sequalize ORM.
+
+## Local development
+
+### Dependencies
+* To run this project you need to use Node v14
+
+
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal in `backend` folder
+* After all dependencies installed, run `npm start dev`
+* Run `npm install` in your terminal in `frontend` folder
+* After all dependencies installed, run `npm start`
+
+(!!!) You need to add to .env file on backend folder authorization variables to get access to data base. (!!!)
